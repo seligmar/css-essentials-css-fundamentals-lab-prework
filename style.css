@@ -13,10 +13,10 @@ figure {
   text-align: center; 
 }
 
-a {
+a. {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: yellow;
+  background-color: grey;
 }
 #details {
   background: red; 
