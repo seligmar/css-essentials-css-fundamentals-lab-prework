@@ -6,4 +6,7 @@ body {
   
 }
 
+#details {
+  body: red; 
+}
 
