@@ -35,5 +35,10 @@ featured-property p {
 
 #details {
   background: red; 
+  display: block; 
+}
+
+#details div {
+  float: left;
 }
 
