@@ -8,6 +8,9 @@ body {
 h1 {
     text-align: center; 
 }
+
+  text-align: center; 
+  
 #details {
   background: red; 
 }
